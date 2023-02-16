@@ -1,6 +1,6 @@
 Nov. 2022
 
-This code has been adapted from https://github.com/danamlewis/OpenHumansDataTools/ (forked and adapted with permission from the author, Winter 2022/23).
+This code has been adapted from https://github.com/danamlewis/OpenHumansDataTools/ (adapted with permission from the author, Winter 2022/23).
 
 For the glucose variability paper involving the OPENonOH and the OpenAPS datasets the following processing steps are taken:
 1. input:
